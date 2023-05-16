@@ -1,4 +1,4 @@
-# Full Stack E-Commerce Project using MERN
+# Full Stack E-Commerce(Book Store) Project using MERN
 
 
 
